@@ -4,12 +4,8 @@
 "versionname" : "1.0",
 "cache_expiration_time" : 300000,
 "default_lang" : "en",
-"languages": {"ar": "عربي", "ca": "Català", "cs": "Čeština", "de": "Deutsch","en": "English", "es": "Español", "es_mx": "Español - México", "eu": "Euskara", "fr" : "Français", "it": "Italiano", "hu": "magyar", "nl": "Nederlands", "sv": "Svenska", "zh_tw" : "正體中文"},
-<<<<<<< HEAD
+"languages": {"en": "English", "es": "Español", "es_mx": "Español - México", "eu": "Euskara", "fr" : "Français", "it": "Italiano", "hu": "magyar", "nl": "Nederlands", "sv": "Svenska", "zh_tw" : "正體中文"},
 "plugins" : ["notifications", "upload", "events", "myfiles", "contents","resource", "participants", "grades","addcontact", "addnote", "sendmessage", "mootes14", "page"],
-=======
-"plugins" : ["notifications", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage"],
->>>>>>> parent of 7c0ecdd... coded plugins
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
 "presets" : {"url": "http://sylmultimedia.com/m", "username": ""},
